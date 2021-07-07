@@ -4,7 +4,9 @@
 
 This PR fulfils the following requirements:
 
+- [ ] Tests for the changes have been added (for bug fixes/features)
 - [ ] Documentation has been reviewed and added/updated where required
+- [ ] Linting has been run locally and fixes applied for any issues
 
 ## Pull request type
 
