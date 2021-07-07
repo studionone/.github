@@ -16,6 +16,7 @@ This PR introduces the following types of changes:
 
 - [ ] Bugfix
 - [ ] Feature
+- [ ] Refactoring
 - [ ] Documentation
 - [ ] Other: <!-- If selected, describe the type -->
 
